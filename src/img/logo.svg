@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 250 250)"  >
+<linearGradient id="SVGID_49620" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -250 -250)"  x1="0" y1="0" x2="500" y2="500">
+<stop offset="0%" style="stop-color:rgb(132,103,186);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(186,172,211);stop-opacity: 1"/>
+</linearGradient>
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_49620); fill-rule: nonzero; opacity: 1;"  x="-250" y="-250" rx="0" ry="0" width="500" height="500" />
+</g>
+<g transform="matrix(10.674580692823813 -2.61452e-15 2.61452e-15 10.674580692823813 175.59356332288928 251)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -4.173867469898944 3.7307097690408355)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-4.776132530101055, -13.030709769040836)" d="M 2.9 12 c -0.7 2.1 0.1 4.4 1.7 5.7 c -2.3 -1.1 -3.5 -3.7 -2.7 -6 c 0.8 -2.4 3.4 -3.8 6 -3.2 C 5.7 8.5 3.6 9.8 2.9 12 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.7579921585427503 4.800000000000002)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-6.192007841457249, -14.100000000000001)" d="M 4.8 13.9 c -0.1 2.1 1.1 3.9 2.9 4.7 c -2.3 -0.5 -4 -2.5 -3.8 -4.8 C 4 11.5 6.1 9.6 8.5 9.6 C 6.5 10 5 11.8 4.8 13.9 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.5093749999999995 1.1869488470335892)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-4.440625, -10.48694884703359)" d="M 2.5 8.6 c -1.7 1.5 -2.1 3.8 -1.3 5.8 C -0.2 12.3 0 9.5 1.8 7.8 c 1.9 -1.7 4.8 -1.6 6.8 0.1 C 6.7 6.8 4.2 7 2.5 8.6 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.101985692869713 -2.329159323769192)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-4.848014307130287, -6.970840676230809)" d="M 4.3 5.4 C 2.1 5.8 0.4 7.5 0 9.6 C -0.1 7 1.7 4.8 4.1 4.4 c 2.5 -0.4 5 1.3 5.6 3.8 C 8.8 6.2 6.6 5 4.3 5.4 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.8020995731456013 -4.072931541550762)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-6.147900426854398, -5.227068458449239)" d="M 7 3.4 c -2.2 -0.6 -4.4 0.3 -5.6 2 c 1 -2.3 3.5 -3.6 5.9 -3 c 2.5 0.7 4 3.2 3.5 5.8 C 10.8 6 9.3 4 7 3.4 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -0.24254513438838288 -4.0950301754649505)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-8.707454865611616, -5.20496982453505)" d="M 10.6 3.2 c -1.6 -1.6 -4 -1.9 -5.9 -1 c 2 -1.5 4.9 -1.5 6.6 0.3 c 1.8 1.8 1.9 4.7 0.2 6.8 C 12.6 7.3 12.3 4.8 10.6 3.2 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 3.6363440517327854 -4.519018911191832)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-12.586344051732784, -4.7809810888081685)" d="M 14.3 3.9 C 13.7 1.7 11.9 0.2 9.7 0 c 2.5 -0.3 4.9 1.2 5.6 3.6 c 0.7 2.5 -0.8 5 -3.2 6 C 14 8.4 14.9 6.1 14.3 3.9 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 6.551886083619367 -4.200000000000001)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,152,0); fill-rule: nonzero; opacity: 1;"  transform=" translate(-15.501886083619366, -5.1000000000000005)" d="M 16.9 5.2 c 0.1 -2.2 -1.3 -4.2 -3.3 -5 c 2.5 0.4 4.4 2.5 4.3 5 c -0.1 2.6 -2.2 4.6 -4.8 4.8 C 15.2 9.5 16.8 7.5 16.9 5.2 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 312.65995839823995 297.4100294314582)" style=""  ><path fill="#ffffff" opacity="1" d="M-141.58 14.48L-141.58-15.48L-131.16-15.48Q-126.83-15.48-124.11-13.59Q-121.39-11.70-121.39-7.92L-121.39-7.92Q-121.39-6.17-122.19-4.51Q-123.00-2.85-124.47-1.93L-124.47-1.93L-124.47-1.75Q-121.98-0.82-120.62 1.09Q-119.26 3.00-119.26 5.54L-119.26 5.54Q-119.26 9.50-122.10 11.99Q-124.94 14.48-129.68 14.48L-129.68 14.48L-141.58 14.48ZM-129.68 0.01L-138.17 0.01L-138.17 11.53L-130.10 11.53Q-126.69 11.53-124.68 10.08Q-122.68 8.63-122.68 5.72L-122.68 5.72Q-122.68 0.01-129.68 0.01L-129.68 0.01ZM-130.79-12.67L-138.17-12.67L-138.17-2.76L-130.19-2.76Q-127.56-2.76-126.18-4.12Q-124.80-5.48-124.80-7.78L-124.80-7.78Q-124.80-10.14-126.39-11.40Q-127.98-12.67-130.79-12.67L-130.79-12.67Z"/><path fill="#ffffff" opacity="1" d="M-114.42 1.11L-114.42-15.48L-110.97-15.48L-110.97 1.44Q-110.97 6.74-108.59 9.43Q-106.22 12.13-101.98 12.13Q-97.74 12.13-95.34 9.43Q-92.94 6.74-92.94 1.44L-92.94 1.44L-92.94-15.48L-89.48-15.48L-89.48 1.11Q-89.48 8.12-92.78 11.60Q-96.08 15.08-101.98 15.08Q-107.88 15.08-111.15 11.62Q-114.42 8.17-114.42 1.11L-114.42 1.11Z"/><path fill="#ffffff" opacity="1" d="M-73.95 2.86L-85.57-15.48L-81.69-15.48L-72.34-0.50L-72.06-0.50L-62.84-15.48L-59.01-15.48L-70.54 2.82L-70.54 14.48L-73.95 14.48L-73.95 2.86Z"/><path fill="#ffffff" opacity="1" d=""/><path fill="#ffffff" opacity="1" d="M-33.20-12.53L-42.42-12.53L-42.42-15.48L-20.52-15.48L-20.52-12.53L-29.74-12.53L-29.74 14.48L-33.20 14.48L-33.20-12.53Z"/><path fill="#ffffff" opacity="1" d="M-15.68 14.48L-15.68-15.48L-12.22-15.48L-12.22 14.48L-15.68 14.48Z"/><path fill="#ffffff" opacity="1" d="M18.99-13.04L18.99-13.04L17.56-10.27Q13.32-13.13 8.71-13.13L8.71-13.13Q3.18-13.13-0.37-9.58Q-3.92-6.03-3.92-0.55L-3.92-0.55Q-3.92 5.31-0.40 8.60Q3.13 11.90 8.66 11.90L8.66 11.90Q11.57 11.90 13.62 11.32Q15.67 10.75 18.02 9.23L18.02 9.23L19.04 12.27Q14.70 15.08 8.16 15.08L8.16 15.08Q5.11 15.08 2.37 14.14Q-0.37 13.19-2.59 11.32Q-4.80 9.46-6.09 6.39Q-7.38 3.33-7.38-0.55L-7.38-0.55Q-7.38-7.37-2.70-11.73Q1.98-16.08 8.71-16.08L8.71-16.08Q14.75-16.08 18.99-13.04Z"/><path fill="#ffffff" opacity="1" d="M23.65 14.48L23.65-15.48L27.06-15.48L27.06 1.30L43.01-15.48L47.39-15.48L35.54-3.22L48.91 14.48L44.67 14.48L33.19-1.05L27.06 4.89L27.06 14.48L23.65 14.48Z"/><path fill="#ffffff" opacity="1" d="M72.51 14.48L53.06 14.48L53.06-15.48L71.82-15.48L71.82-12.53L56.51-12.53L56.51-2.62L70.30-2.62L70.30 0.33L56.51 0.33L56.51 11.49L72.51 11.49L72.51 14.48Z"/><path fill="#ffffff" opacity="1" d="M85.65-12.53L76.43-12.53L76.43-15.48L98.33-15.48L98.33-12.53L89.11-12.53L89.11 14.48L85.65 14.48L85.65-12.53Z"/></g></svg>
